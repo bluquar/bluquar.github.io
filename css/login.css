@@ -1,6 +1,0 @@
-div[visible="no"] {
-	display:none;
-}
-div[visible="yes"] {
-	display:default;
-}

@@ -1,2 +1,2 @@
-# free-food-cmu
-Tartan Hacks 2015 hack - Free Food @ CMU
+# Chris Barker's personal website
+Currently Migrating from Wordpress
